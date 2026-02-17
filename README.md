@@ -33,3 +33,7 @@ Calculate your Body Mass Index instantly!
 
 ## 👩‍💻 Made by
 **KChavhan17** | 4th Semester Student 🔥
+
+## (⁠*⁠❛⁠‿⁠❛⁠)⁠→(⁠✿⁠^⁠‿⁠^⁠) ✈️Live Demo
+🔗 https://kchavhan17.github.io/BMI--Calculator-/
+
